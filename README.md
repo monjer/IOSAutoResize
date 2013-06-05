@@ -9,3 +9,4 @@ or in the UIViewController's willRotateToInterfaceOrientation:duration: method t
 
 UIView's autoresizingMask property can contribute to the process of compute the view's new frame , so  
 we can realize some common user interface layout more simplier ，such as sidebar , custom toolbar .ect .
+This project simply shows some common autoresizingMask property's usage .
